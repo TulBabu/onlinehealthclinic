@@ -1,8 +1,8 @@
-D:\Java\eClinic\eClinic\src\main\java\com\eclinic\web\home\controller\HomeController.java
-D:\Java\eClinic\eClinic\src\main\java\com\eclinic\core\controller\CRUDController.java
-D:\Java\eClinic\eClinic\src\main\java\com\eclinic\core\controller\SiteController.java
-D:\Java\eClinic\eClinic\src\main\java\com\eclinic\web\doctor\controller\DoctorController.java
-D:\Java\eClinic\eClinic\src\main\java\com\eclinic\web\doctor\repository\DoctorRepository.java
-D:\Java\eClinic\eClinic\src\main\java\com\eclinic\web\AppRunner.java
-D:\Java\eClinic\eClinic\src\main\java\com\eclinic\core\entity\MasterEntity.java
-D:\Java\eClinic\eClinic\src\main\java\com\eclinic\web\doctor\entity\Doctor.java
+C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\doctor\repository\DoctorRepository.java
+C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\doctor\controller\DoctorController.java
+C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\core\entity\MasterEntity.java
+C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\doctor\entity\Doctor.java
+C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\core\controller\SiteController.java
+C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\core\controller\CRUDController.java
+C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\AppRunner.java
+C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\home\controller\HomeController.java
