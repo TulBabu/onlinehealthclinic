@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping(value = "/dr_jayant")
 public class DrJayantController extends CRUDController<DrJayant, Integer>{
     public DrJayantController() {
-        pageTitle="Dr.Jayant";
+        pageTitle="Dr.Jayant Kumar Sah";
         pageURI="dr_jayant";
         viewPath="dr_jayant";
     }
