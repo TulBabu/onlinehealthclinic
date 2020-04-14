@@ -18,9 +18,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping(value = "/doctors")
 public class DoctorController extends CRUDController<Doctor, Integer>{
     public DoctorController() {
-        pageTitle="Doctor";
-        pageURI="doctors";
-        viewPath="doctors";
+        pageTitle="home";
+        pageURI="home";
+        viewPath="home";
     }
     
 }
