@@ -1,8 +1,11 @@
+com\eclinic\web\dr_jayant\entity\DrJayant.class
 com\eclinic\web\doctor\controller\DoctorController.class
 com\eclinic\web\doctor\repository\DoctorRepository.class
+com\eclinic\web\dr_jayant\repository\DrJayantRepository.class
 com\eclinic\web\AppRunner.class
 com\eclinic\web\home\controller\HomeController.class
 com\eclinic\core\controller\SiteController.class
 com\eclinic\core\entity\MasterEntity.class
 com\eclinic\core\controller\CRUDController.class
+com\eclinic\web\dr_jayant\controller\DrJayantController.class
 com\eclinic\web\doctor\entity\Doctor.class
