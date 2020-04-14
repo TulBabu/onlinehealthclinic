@@ -1,17 +1,18 @@
 <div th:replace="shared/home/header"></div>
-<div class="col-md-12">
-    <div class="box">
+<!--<div class="col-md-12">
+    <div class="box">-->
         <div class="box-header with-border">
             <a href="javascript:void(0)" class="btn btn-primary btn-xs add-btn" th:title="'Create'+${pageTitle}">
-                <span class="glyphicon glyphicon-plus"></span>
+                <span class="glyphicon glyphicon-plus"><p>Connect With Doctor</p></span>
             </a>
         </div>
         <!-- /.box-header -->
 
-        <div class="box-body">
-            <div id="view-table" th:include="${viewPath+'/table'}"></div>
+<!--        <div class="box-body">
+-->            <div id="view-tabl" th:include="${viewPath+'/jayantainfo'}"></div><!--
+           <div id="view-table" th:include="${viewPath+'/jayantainfo'}"></div>
         </div>
-        <!-- /.box-body -->
+         /.box-body 
         <div class="box-footer clearfix">
             <ul class="pagination pagination-sm no-margin pull-right">
                 <li><a href="#">«</a></li>
@@ -22,8 +23,8 @@
             </ul>
         </div>
     </div>
-    <!-- /.box -->
-</div>
+     /.box -->
+<!--</div>-->
 
 <div th:include="${viewPath}+'/components/form-dialog'"></div>
 
