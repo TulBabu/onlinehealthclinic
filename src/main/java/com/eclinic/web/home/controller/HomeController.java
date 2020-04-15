@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class HomeController extends SiteController{
 
     public HomeController() {
-    pageTitle="Dashboard";
+    pageTitle="Online Health Clinic";
     }
     @GetMapping
     public String index(){
