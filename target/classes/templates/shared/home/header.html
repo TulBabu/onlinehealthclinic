@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title th:text="${pageTitle}"></title>
+  <!--<title th:text="${pageTitle}"></title>-->
+  
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.6 -->
@@ -47,12 +48,12 @@
   </header>
     <div th:replace="shared/home/sidebar"></div>
      <div class="content-wrapper">
-    <!-- Content Header (Page header) -->
+<!--     Content Header (Page header) -->
     <section class="content-header">
       <h1 th:text="${pageTitle}"> </h1>
       <ol class="breadcrumb">
-        <li><a th:href="@{'/' + ${pageURI}}"><i class="fa fa-dashboard"></i> Home</a></li>
-        <li class="active" th:text="${pageTitle}"></li>
+        <li><b>NEPAL BHARAT MAITRI HOSPITAL</b></li>
+        <!--<li class="active" th:text="${pageTitle}"></li>-->
       </ol>
     </section>
         <!-- Main content -->
