@@ -12,12 +12,14 @@ C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\core\controller\CRUD
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Saurav_Shrestha\entity\DrSaurav.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\AppRunner.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Jiuneshwar_Lal_Jha\controller\DrJiuneshwarController.java
+C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Madhusudan_Kayastha\entity\DrMadhusudan.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Ritesh_Shrestha\entity\DrRitesh.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Lokendra_Limbu\controller\DrLokendraController.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Onika_Karki\repository\DrOnikaRepository.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Sushma_Bhattachan\entity\DrSushma.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Lokendra_Limbu\repository\DrLokendraReposotory.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Prajeet_K_Shrestha\entity\DrPrajeet.java
+C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Madhusudan_Kayastha\controller\DrMadhusudanController.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\dr_jayant\controller\DrJayantController.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\dr_jayant\entity\DrJayant.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Prakash_dware\controller\DrPrakashController.java
@@ -38,6 +40,7 @@ C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Prakash_dware
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Sanjay_K_Yadav\controller\DrSanjayController.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Onika_Karki\controller\DrOnikaController.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Sushma_Bhattachan\repository\DrSushmaRepository.java
+C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Madhusudan_Kayastha\repository\DrMadhusudanRepository.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Navin_K_Mishra\entity\DrNavin.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Sanjay_K_Yadav\repository\DrSanjayRepository.java
 C:\Users\Babu TUl\Desktop\eClinic\src\main\java\com\eclinic\web\Dr_Saurav_Shrestha\controller\DrsauravController.java
