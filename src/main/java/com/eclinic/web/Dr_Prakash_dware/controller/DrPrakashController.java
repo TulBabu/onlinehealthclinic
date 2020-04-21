@@ -21,7 +21,7 @@ public class DrPrakashController extends CRUDController<DrJayant, Integer>{
     public DrPrakashController() {
         pageTitle="Dr.Prakash Dware";
         pageURI="dr_prakash";
-        viewPath="Dr_Prakash_Dware";
+        viewPath="Dr_Prakash_dware";
     }
     
 }
