@@ -29,5 +29,9 @@ public class HomeController extends SiteController{
     public String about(){
         return "home/index";
     }
+    @GetMapping(value = "/videoConference")
+    public String videoConference(){
+        return "videoConference/index";
+    }
     
 }
